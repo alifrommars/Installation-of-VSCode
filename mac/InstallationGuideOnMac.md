@@ -25,7 +25,7 @@ You can also run VS Code from the terminal by typing 'code' after adding it to t
 * Launch VS Code.
 * Open the **Command Palette** (`kbstyle(Cmd+Shift+P)`) and type 'shell command' to find the **Shell Command: Install 'code' command in PATH** command.
 
-![macOS shell commands](images/mac/shell-command.png)
+![macOS shell commands](shell-command.png)
 
 * Restart the terminal for the new `$PATH` value to take effect. You'll be able to type 'code .' in any folder to start editing files in that folder.
 
