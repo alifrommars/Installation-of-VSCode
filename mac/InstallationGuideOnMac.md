@@ -60,7 +60,7 @@ EOF
 
 Out of the box VS Code adds actions to navigate in editor history as well as the full Debug tool bar to control the debugger on your Touch Bar:
 
-![macOS Touch Bar](images/mac/touchbar.gif)
+![macOS Touch Bar](touchbar.gif)
 
 ## Mojave privacy protections
 
