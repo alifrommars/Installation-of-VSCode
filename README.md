@@ -1,7 +1,13 @@
-# ⚠️ Moved
+# VS Code + C++ Setup on Windows
 
-This guide now lives at
-**[introduction-to-programming/SETUP.md](https://github.com/alifrommars/introduction-to-programming/blob/main/SETUP.md)**.
-This repository is archived (read-only).
+A step-by-step guide to writing, compiling and debugging C++ in VS Code on Windows.
 
-The original guide is still here: [InstallationGuideOnWindows.md](InstallationGuideOnWindows.md)
+👉 **[Read the guide](InstallationGuideOnWindows.md)**
+
+It covers:
+1. Installing VS Code and the C/C++ extension
+2. Installing GCC (MinGW, UCRT build)
+3. Adding the compiler to `PATH`
+4. One-click run with Code Runner
+5. Compiling from the terminal
+6. Debugging with `launch.json` and `tasks.json`
